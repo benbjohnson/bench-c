@@ -41,3 +41,4 @@ run: bin/bench
 
 clean: 
 	rm -rf bin
+	rm src/*.o
